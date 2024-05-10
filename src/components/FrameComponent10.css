@@ -1,0 +1,214 @@
+.clip-path-group {
+  height: 140px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.freepik-create-great-designs {
+  width: 130.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.unlimited-downloads,
+.unlimited-downloads-every {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.unlimited-downloads {
+  margin: 0;
+  height: 48.5px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.unlimited-downloads-every {
+  height: 84.2px;
+  font-size: 16px;
+  line-height: 135%;
+}
+.freepik-create-great-designs-parent {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+}
+.clip-path-group1 {
+  height: 140px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.freepik-create-great-designs1 {
+  width: 130.4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.higher-quality-content,
+.premium-content {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.premium-content {
+  margin: 0;
+  width: 320.2px;
+  height: 48.5px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.higher-quality-content {
+  align-self: stretch;
+  height: 84.2px;
+  font-size: 16px;
+  line-height: 135%;
+}
+.freepik-create-great-designs-group {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+}
+.clip-path-group2 {
+  width: 141px;
+  height: 140px;
+  position: relative;
+}
+.freepik-create-great-designs2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.because-no-one,
+.no-attribution {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.no-attribution {
+  margin: 0;
+  width: 262.1px;
+  height: 44.8px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.because-no-one {
+  align-self: stretch;
+  height: 103.6px;
+  font-size: 16px;
+  line-height: 135%;
+}
+.freepik-create-great-designs-container {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+}
+.frame-parent64,
+.landing-child {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent64 {
+  width: 1396px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.landing-child {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 53px 20px 54.1px;
+  box-sizing: border-box;
+  z-index: 5;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1525px) {
+  .frame-parent64 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .landing-child {
+    gap: 73px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .no-attribution,
+  .premium-content,
+  .unlimited-downloads {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .landing-child {
+    gap: 37px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .unlimited-downloads {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .freepik-create-great-designs-parent {
+    gap: 16px;
+  }
+  .premium-content {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .freepik-create-great-designs-group {
+    gap: 16px;
+  }
+  .no-attribution {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .freepik-create-great-designs-container {
+    gap: 16px;
+  }
+  .landing-child {
+    gap: 18px;
+    padding-top: 34px;
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}

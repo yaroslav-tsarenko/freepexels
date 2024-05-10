@@ -1,0 +1,66 @@
+.parent4,
+.parent5 {
+  height: 22px;
+  flex: 1;
+  font-family: Inter;
+  font-size: 16px;
+  color: #fff;
+  width: auto;
+}
+.explore5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+}
+.frame-parent43 {
+  width: 287px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.loginsignup3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.header-nav6,
+.search-bar1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-nav6 {
+  align-self: stretch;
+  background-color: #000;
+  overflow: hidden;
+  justify-content: center;
+  padding: 29px 20px;
+  gap: 1293px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .header-nav6 {
+    gap: 646px;
+  }
+}
+@media screen and (max-width: 925px) {
+  .header-nav6 {
+    gap: 323px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-nav6 {
+    gap: 162px;
+  }
+}

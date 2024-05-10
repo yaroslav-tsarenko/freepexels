@@ -1,0 +1,66 @@
+.container,
+.group {
+  height: 22px;
+  flex: 1;
+  font-family: Inter;
+  font-size: 16px;
+  color: #fff;
+  width: auto;
+}
+.explore2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+}
+.frame-parent22 {
+  width: 287px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.loginsignup {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.header-nav2,
+.input-field {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-nav2 {
+  align-self: stretch;
+  background-color: #000;
+  overflow: hidden;
+  justify-content: center;
+  padding: 29px 20px;
+  gap: 1293px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1225px) {
+  .header-nav2 {
+    gap: 646px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .header-nav2 {
+    gap: 323px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-nav2 {
+    gap: 162px;
+  }
+}

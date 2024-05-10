@@ -1,0 +1,51 @@
+.about-us-freepik-32-1-1 {
+  width: 70px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+}
+.about-us-freepik-32-1-1-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+}
+.an-invaluable-tool {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.frame-parent40,
+.frame-wrapper8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent40 {
+  flex: 1;
+  gap: 11px;
+}
+.frame-wrapper8 {
+  width: 411px;
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 0 0 100px 0;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 56px 44px 56px 45px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 450px) {
+  .frame-wrapper8 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

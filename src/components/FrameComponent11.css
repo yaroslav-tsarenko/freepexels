@@ -1,0 +1,133 @@
+.more-in-this {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.see-all {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #695e5e;
+  display: inline-block;
+  min-width: 50px;
+}
+.more-in-this-collection-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.related-tags {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 94px;
+}
+.frame-child69 {
+  height: 46px;
+  flex: 1;
+  min-width: 94px;
+}
+.frame-child70 {
+  height: 46px;
+  width: 71px;
+}
+.frame-child71 {
+  height: 46px;
+  width: 101px;
+}
+.frame-child72 {
+  height: 46px;
+  width: 123px;
+}
+.frame-child73 {
+  height: 46px;
+  width: 92px;
+}
+.frame-child74 {
+  height: 46px;
+  width: 68px;
+}
+.instance-container,
+.related-tags-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.instance-container {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.related-tags-parent {
+  flex-direction: column;
+}
+.view-similar-pictures {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  color: #000;
+}
+.frame-parent31,
+.frame-parent32 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent32 {
+  width: 659px;
+  gap: 12px;
+  font-size: 16px;
+  color: #695e5e;
+}
+.frame-parent31 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 32px 120px;
+  box-sizing: border-box;
+  gap: 36px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent31 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-parent31 {
+    gap: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .more-in-this {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .more-in-this-collection-parent {
+    flex-wrap: wrap;
+  }
+  .view-similar-pictures {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

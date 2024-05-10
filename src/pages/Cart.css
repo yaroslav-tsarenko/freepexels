@@ -1,0 +1,47 @@
+.cart1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 104px;
+}
+.cart,
+.product-credits {
+  display: flex;
+  align-items: flex-start;
+}
+.product-credits {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 64px 20px 32px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: "DM Sans";
+}
+.cart {
+  width: 100%;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 850px) {
+  .cart1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cart1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

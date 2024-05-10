@@ -1,0 +1,241 @@
+.instance-child {
+  position: absolute;
+  height: 22.88%;
+  width: 60.65%;
+  top: 60.58%;
+  right: 19.78%;
+  bottom: 16.54%;
+  left: 19.57%;
+  border-radius: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-inner,
+.instance-item,
+.rectangle-div {
+  position: absolute;
+  height: 19.04%;
+  width: 26.3%;
+  top: 38.85%;
+  right: 54.13%;
+  bottom: 42.12%;
+  left: 19.57%;
+  background-color: #000;
+}
+.instance-inner,
+.rectangle-div {
+  width: 26.96%;
+  right: 19.57%;
+  left: 53.48%;
+}
+.rectangle-div {
+  width: 26.3%;
+  top: 17.31%;
+  right: 36.96%;
+  bottom: 63.65%;
+  left: 36.74%;
+}
+.vector-parent {
+  height: 52px;
+  width: 46px;
+  position: relative;
+}
+.freepexels {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.freepexels-wrapper {
+  flex-direction: column;
+  padding: 7px 0 0;
+}
+.frame-wrapper3,
+.freepexels-wrapper,
+.instance-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent {
+  flex-direction: row;
+  gap: 10px;
+}
+.frame-wrapper3 {
+  flex-direction: column;
+  padding: 21px 0 0;
+}
+.assets {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  flex-shrink: 0;
+}
+.line-div {
+  height: 23px;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid #000;
+  box-sizing: border-box;
+}
+.assets-parent {
+  height: 22px;
+  width: 67px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.search-all-assets {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 124px;
+}
+.frame-parent24,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent24 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-wrapper4 {
+  width: 310px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+}
+.instance-child1 {
+  height: 46px;
+  width: 133px;
+}
+.frame-parent23 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 0.5px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 23px 25px 23px 23px;
+  min-width: 578px;
+  max-width: 100%;
+  gap: 20px;
+}
+.pricing1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 52px;
+}
+.pricing-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.frame-child64 {
+  height: 46px;
+  width: 137px;
+}
+.frame-parent25,
+.frame-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent25 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-wrapper5 {
+  width: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 0 0;
+  box-sizing: border-box;
+  font-family: Inter;
+}
+.frame-header,
+.instance-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.instance-group {
+  width: 1315px;
+  justify-content: flex-start;
+  gap: 173px;
+  font-size: 16px;
+}
+.frame-header {
+  align-self: stretch;
+  background-color: #fff;
+  justify-content: center;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  gap: 138px;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1625px) {
+  .frame-header {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .instance-group {
+    flex-wrap: wrap;
+    gap: 86px;
+  }
+  .frame-header {
+    gap: 69px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .freepexels {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-parent23 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .instance-group {
+    gap: 43px;
+  }
+  .frame-header {
+    gap: 34px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .freepexels {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frame-parent24 {
+    flex-wrap: wrap;
+  }
+  .instance-group {
+    gap: 22px;
+  }
+  .frame-header {
+    gap: 17px;
+  }
+}

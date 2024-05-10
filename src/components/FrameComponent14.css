@@ -1,0 +1,320 @@
+.ready-to-go-content {
+  position: relative;
+  line-height: 22px;
+}
+.link {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.instant-creativity-hub {
+  margin: 0;
+  align-self: stretch;
+  height: 88px;
+  position: relative;
+  font-size: 80px;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.from-hd-videos1 {
+  width: 570px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.spacer {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.paragraph,
+.paragraph-wrapper,
+.spacer {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.paragraph {
+  width: 835px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.paragraph-wrapper {
+  width: 1680px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+}
+.vectors {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 123px;
+}
+.layout {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 186px 67px 186px 70px;
+  box-sizing: border-box;
+  background-image: url(/public/layout@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.photos4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 109px;
+}
+.layout1 {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 186px 74px 186px 77px;
+  box-sizing: border-box;
+  background-image: url(/public/layout1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.videos {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 109px;
+}
+.layout2 {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 186px 75px 186px 76px;
+  box-sizing: border-box;
+  background-image: url(/public/layout2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.psd {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 62px;
+}
+.layout3 {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 186px 20px 187px;
+  box-sizing: border-box;
+  background-image: url(/public/layout3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.mockups {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.layout4 {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 186px 57px 186px 59px;
+  box-sizing: border-box;
+  background-image: url(/public/layout4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.abstract {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 39px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.layout5 {
+  width: 260px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 186px 59px 186px 62px;
+  box-sizing: border-box;
+  background-image: url(/public/layout5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-parent63,
+.layout-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.layout-parent {
+  width: 1680px;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+  font-size: 32px;
+  color: #fff;
+}
+.frame-parent63 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 20px;
+  box-sizing: border-box;
+  gap: 45px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 850px) {
+  .instant-creativity-hub {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .abstract,
+  .mockups,
+  .photos4,
+  .psd,
+  .vectors,
+  .videos {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-parent63 {
+    gap: 22px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .instant-creativity-hub {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .vectors {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .layout {
+    padding-top: 121px;
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .photos4 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .layout1 {
+    padding-top: 121px;
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .videos {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .layout2 {
+    padding-top: 121px;
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .psd {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .layout3 {
+    padding-top: 121px;
+    padding-bottom: 122px;
+    box-sizing: border-box;
+  }
+  .mockups {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .layout4 {
+    padding-top: 121px;
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .abstract {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frame-parent63,
+  .layout5 {
+    padding-top: 121px;
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .frame-parent63 {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+}

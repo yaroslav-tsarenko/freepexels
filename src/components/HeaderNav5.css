@@ -1,0 +1,65 @@
+.parent6,
+.parent7 {
+  height: 22px;
+  flex: 1;
+  font-family: Inter;
+  font-size: 16px;
+  color: #fff;
+  width: auto;
+}
+.explore6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+}
+.frame-parent49 {
+  width: 287px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.loginsignup4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.header-nav7,
+.loginsignup-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-nav7 {
+  align-self: stretch;
+  background-color: #000;
+  overflow: hidden;
+  justify-content: space-between;
+  padding: 29px 120px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .header-nav7 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .header-nav7 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}

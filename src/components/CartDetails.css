@@ -1,0 +1,347 @@
+.header-child {
+  height: 50px;
+  width: 985px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #000;
+  flex-shrink: 0;
+  display: none;
+}
+.price,
+.product {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 71px;
+  z-index: 1;
+}
+.price {
+  min-width: 46px;
+}
+.price-wrapper {
+  width: 93px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.total {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+  z-index: 1;
+}
+.header4 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #000;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 16px 104px 12px 38px;
+  gap: 20px;
+  font-size: 18px;
+  color: #fff;
+}
+.checkout-button1,
+.checkout-button2,
+.checkout-button3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.arrow-narrow-right-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 24px;
+}
+.back1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 36px;
+}
+.back-wrapper,
+.button3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.button3 {
+  border-radius: 32px 32px 32px 0;
+  flex-direction: row;
+  padding: 18px 24px;
+  gap: 10px;
+}
+.button4 {
+  height: 60px;
+  width: 202px;
+}
+.button-parent,
+.header-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.button-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 35.6px;
+  min-width: 640px;
+  max-width: 100%;
+}
+.checkout-details5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 126px;
+}
+.header-wrapper,
+.header5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header5 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #000;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+.header-wrapper {
+  align-self: stretch;
+  padding: 0 0 4px;
+  color: #fff;
+}
+.cart-subtotal1,
+.div5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 99px;
+}
+.div5 {
+  text-align: right;
+  min-width: 64px;
+  white-space: nowrap;
+}
+.cart-subtotal-group,
+.checkout-details-inner2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.cart-subtotal-group {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-details-inner2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.other-taxes1,
+.shipping-handling1 {
+  position: relative;
+  line-height: 22px;
+}
+.other-taxes1 {
+  display: inline-block;
+  min-width: 89px;
+}
+.shipping-handling-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.div6,
+.div7 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+  white-space: nowrap;
+}
+.parent13 {
+  width: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: right;
+}
+.checkout-details-inner3,
+.frame-parent69 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent69 {
+  flex: 1;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details-inner3 {
+  justify-content: flex-start;
+  padding: 0 25px;
+}
+.checkout-details-inner3,
+.footer-content-wrapper,
+.footer-content1 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-content1 {
+  flex: 1;
+  position: relative;
+  border-top: 1px solid #cacaca;
+}
+.footer-content-wrapper {
+  height: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3px;
+}
+.div8,
+.grand-total1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 86px;
+}
+.div8 {
+  text-align: right;
+  min-width: 64px;
+  white-space: nowrap;
+}
+.grand-total-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.cart-details1,
+.checkout-details-inner4,
+.checkout-details4 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.checkout-details-inner4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 25px;
+}
+.cart-details1,
+.checkout-details4 {
+  border-radius: 10px;
+}
+.checkout-details4 {
+  width: 504px;
+  background-color: #f7f7f7;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 32px;
+  gap: 32px;
+  min-width: 504px;
+}
+.cart-details1 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 120px 192px;
+  gap: 47px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1525px) {
+  .checkout-details4 {
+    flex: 1;
+  }
+  .cart-details1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .header4 {
+    padding-right: 52px;
+    box-sizing: border-box;
+  }
+  .checkout-details4,
+  .header-parent {
+    min-width: 100%;
+  }
+  .cart-details1 {
+    padding: 78px 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .header4 {
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .header-parent {
+    gap: 18px;
+  }
+  .checkout-details4 {
+    gap: 16px;
+  }
+  .cart-details1 {
+    gap: 23px;
+    padding: 51px 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .button-parent,
+  .cart-subtotal-group,
+  .frame-parent69,
+  .grand-total-group {
+    flex-wrap: wrap;
+  }
+}

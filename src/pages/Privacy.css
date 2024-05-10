@@ -1,0 +1,292 @@
+.privacy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.cedar-host-pro {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 64px 20px 32px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: "DM Sans";
+}
+.cedar-host-pro1 {
+  width: 1680px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+  display: inline-block;
+  max-width: 100%;
+}
+.data-security,
+.data-security1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.data-security1 {
+  padding-left: 32px;
+}
+.data-security {
+  position: relative;
+  line-height: 29px;
+  font-weight: 700;
+}
+.we-take-reasonable {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+}
+.data-security-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.third-party-services,
+.third-party-services1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.third-party-services1 {
+  padding-left: 32px;
+}
+.third-party-services {
+  position: relative;
+  line-height: 29px;
+  font-weight: 700;
+}
+.we-may-use {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+}
+.third-party-services-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cookies-and-tracking-technolog {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.cookies-and-tracking-container {
+  margin: 0;
+  width: 444px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-use-cookies {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #8a8a8a;
+}
+.cookies-and-tracking-technolog-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.your-choices,
+.your-choices1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.your-choices1 {
+  padding-left: 32px;
+}
+.your-choices {
+  position: relative;
+  line-height: 29px;
+  font-weight: 700;
+}
+.you-have-the {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+}
+.your-choices-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.changes-to-this-privacy-policy {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.changes-to-this-container {
+  margin: 0;
+  width: 385px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-may-update {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+}
+.changes-to-this-privacy-policy-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-us3,
+.contact-us4 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-us4 {
+  padding-left: 32px;
+}
+.contact-us3 {
+  width: 276px;
+  position: relative;
+  line-height: 29px;
+  font-weight: 700;
+  display: inline-block;
+}
+.blank-line1,
+.by-using-our,
+.if-you-have1 {
+  margin: 0;
+}
+.if-you-have-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #8a8a8a;
+}
+.contact-us-group {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cedar-host-pro-we-us-or-parent {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #0a0905;
+  font-family: "DM Sans";
+}
+.privacy {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .cedar-host-pro-we-us-or-parent {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .privacy1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .changes-to-this-privacy-policy-parent,
+  .contact-us-group,
+  .cookies-and-tracking-technolog-parent,
+  .data-security-parent,
+  .third-party-services-parent,
+  .your-choices-parent {
+    gap: 16px;
+  }
+  .cedar-host-pro-we-us-or-parent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .privacy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .changes-to-this-container,
+  .contact-us3,
+  .cookies-and-tracking-container,
+  .data-security,
+  .third-party-services,
+  .your-choices {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .cedar-host-pro-we-us-or-parent {
+    gap: 16px;
+  }
+}

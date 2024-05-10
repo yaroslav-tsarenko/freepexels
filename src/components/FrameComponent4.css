@@ -1,0 +1,41 @@
+.value-action-1-icon {
+  width: 96px;
+  height: 96px;
+  position: relative;
+  object-fit: cover;
+}
+.we-like-to,
+.we-walk-and {
+  align-self: stretch;
+  position: relative;
+}
+.we-walk-and {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.we-like-to {
+  font-size: 16px;
+  line-height: 135%;
+}
+.value-action-1-parent {
+  width: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 450px) {
+  .we-walk-and {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

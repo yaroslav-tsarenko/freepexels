@@ -1,0 +1,84 @@
+.assets4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.browse-our-wide {
+  margin: 0;
+  height: 53px;
+  position: relative;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.get-the-inspiration3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.assets-parent2,
+.condition-set-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.assets-parent2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.condition-set-inner {
+  width: 745px;
+  justify-content: flex-end;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.condition-set-child {
+  height: 46px;
+  width: 157px;
+}
+.condition-set4 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 75px 120px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1225px) {
+  .condition-set4 {
+    flex-wrap: wrap;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .browse-our-wide {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .condition-set4 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .browse-our-wide {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

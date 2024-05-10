@@ -1,0 +1,97 @@
+.premium-benefits {
+  position: relative;
+  line-height: 22px;
+}
+.connection-point {
+  width: 424px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ready-to-level {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.color-palette {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 10px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 48px;
+}
+.interaction-zone {
+  height: 46px;
+  flex: 1;
+}
+.prototype-manager {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 41px 0 39px;
+}
+.yes-you-can {
+  position: relative;
+  line-height: 22px;
+}
+.symbol-library {
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+}
+.alignment-system,
+.connection-point-parent {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.alignment-system {
+  width: 424px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 4px 0 0;
+  text-align: center;
+}
+.connection-point-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 64px 20px 32px 25px;
+  gap: 26px;
+  z-index: 4;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 850px) {
+  .ready-to-level {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ready-to-level {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

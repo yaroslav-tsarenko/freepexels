@@ -1,0 +1,115 @@
+.how-we-use-your-information {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 32px;
+}
+.how-we-use-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.providing-services,
+.we-use-your {
+  position: relative;
+  line-height: 120%;
+}
+.we-use-your {
+  align-self: stretch;
+  font-size: 16px;
+  line-height: 22px;
+  color: #8a8a8a;
+}
+.providing-services-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.communication,
+.we-may-use1 {
+  position: relative;
+  line-height: 120%;
+}
+.we-may-use1 {
+  align-self: stretch;
+  font-size: 16px;
+  line-height: 22px;
+  color: #8a8a8a;
+}
+.communication-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.analytics {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 114px;
+}
+.we-use-analytics {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #8a8a8a;
+}
+.analytics-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.analytics-parent,
+.frame-parent71,
+.how-we-use-your-information-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent71 {
+  align-self: stretch;
+  padding: 0 144px 0 0;
+  gap: 16px;
+  font-size: 18px;
+}
+.how-we-use-your-information-parent {
+  width: 1680px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #0a0905;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent71 {
+    padding-right: 72px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .frame-parent71 {
+    padding-right: 36px;
+    box-sizing: border-box;
+  }
+  .how-we-use-your-information-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-we-use-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

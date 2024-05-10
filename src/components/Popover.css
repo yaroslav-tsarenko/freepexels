@@ -1,0 +1,290 @@
+.graduation-videos {
+  position: relative;
+  line-height: 22px;
+}
+.accordion {
+  flex: 1;
+  border-radius: 5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/accordion@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 446px;
+  min-height: 300px;
+  max-width: 100%;
+}
+.cinco-de-mayo {
+  position: relative;
+  line-height: 22px;
+}
+.cinco-de-mayo-wrapper {
+  height: 300px;
+  width: 402px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-28@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.mothers-day {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 112px;
+}
+.image-processor,
+.modal-dialog {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-processor {
+  height: 300px;
+  width: 544px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: flex-end;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/image-processor@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.modal-dialog {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 24px;
+}
+.happy-tihar {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 106px;
+}
+.happy-tihar-wrapper {
+  height: 300px;
+  width: 544px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-30@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.flowers {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 68px;
+}
+.flowers-wrapper {
+  height: 300px;
+  width: 402px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-281@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.family-photos {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 123px;
+}
+.family-photos-wrapper,
+.modal-dialog1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.family-photos-wrapper {
+  flex: 1;
+  border-radius: 5px;
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-29@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 446px;
+  min-height: 300px;
+}
+.modal-dialog1 {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 24px;
+}
+.cactus-images {
+  position: relative;
+  line-height: 22px;
+}
+.cactus-images-wrapper {
+  height: 300px;
+  width: 402px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-282@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.city-backdrops {
+  position: relative;
+  line-height: 22px;
+}
+.city-backdrops-wrapper {
+  flex: 1;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-291@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 446px;
+  min-height: 300px;
+}
+.city-backdrops-wrapper,
+.modal-dialog-child,
+.modal-dialog2,
+.popover {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.modal-dialog-child {
+  border: 0;
+  background-color: transparent;
+  height: 300px;
+  width: 544px;
+  outline: 0;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 18px 32px;
+  box-sizing: border-box;
+  background-image: url(/public/frame-301@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+.modal-dialog2,
+.popover {
+  gap: 24px;
+}
+.modal-dialog2 {
+  width: 1680px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.popover {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 20px 64px;
+  box-sizing: border-box;
+  min-height: 1044px;
+  z-index: 1;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1525px) {
+  .accordion {
+    min-height: auto;
+  }
+  .modal-dialog {
+    flex-wrap: wrap;
+  }
+  .family-photos-wrapper {
+    min-height: auto;
+  }
+  .modal-dialog1 {
+    flex-wrap: wrap;
+  }
+  .city-backdrops-wrapper {
+    min-height: auto;
+  }
+  .modal-dialog2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .popover {
+    padding-top: 21px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .accordion,
+  .city-backdrops-wrapper,
+  .family-photos-wrapper {
+    min-width: 100%;
+  }
+  .popover {
+    padding-top: 20px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,180 @@
+.attribution-how-when,
+.download-limit-how,
+.is-this-website,
+.what-is-the {
+  position: relative;
+  line-height: 135%;
+}
+.download-limit-how,
+.what-is-the {
+  align-self: stretch;
+}
+.exclusive-content-subscription {
+  width: 295px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 0 0;
+  box-sizing: border-box;
+  gap: 24px;
+}
+.footer-info {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid #000;
+  box-sizing: border-box;
+}
+.footer-info-wrapper {
+  height: 192px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+}
+.personal-use {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 94px;
+}
+.custom-work-for,
+.marketing-products-for,
+.packaging {
+  position: relative;
+  line-height: 135%;
+}
+.packaging {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 75px;
+}
+.f-a-q-search-and-guide-with-co,
+.personal-use-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.personal-use-parent {
+  gap: 24px;
+}
+.f-a-q-search-and-guide-with-co {
+  padding: 22px 0 0;
+}
+.social-media-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 85px;
+  max-width: 100%;
+}
+.pricing-and-about-us {
+  align-self: stretch;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid #000;
+  box-sizing: border-box;
+}
+.youtube-videos {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 117px;
+}
+.social-network-posts {
+  position: relative;
+  line-height: 135%;
+}
+.blog-and-websites,
+.subscription-invoices {
+  position: relative;
+  line-height: 22px;
+}
+.press-room-a-p-i-and-selling-c,
+.youtube-videos-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.youtube-videos-parent {
+  align-self: stretch;
+  gap: 24px;
+}
+.press-room-a-p-i-and-selling-c {
+  width: 159px;
+  padding: 10px 0 0;
+  box-sizing: border-box;
+}
+.terms-of-use-agreement1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.marketplace-assets,
+.usage-guide-and-contact {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.marketplace-assets {
+  height: 192px;
+  width: 245px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.usage-guide-and-contact {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 366px;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #336aea;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1800px) {
+  .usage-guide-and-contact {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .social-media-links {
+    flex-wrap: wrap;
+  }
+  .usage-guide-and-contact {
+    padding-left: 183px;
+    padding-right: 183px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .social-media-links {
+    gap: 42px;
+  }
+  .usage-guide-and-contact {
+    padding-left: 91px;
+    padding-right: 91px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .social-media-links {
+    gap: 21px;
+  }
+}

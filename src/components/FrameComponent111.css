@@ -1,0 +1,353 @@
+.candle-2-icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  min-height: 22px;
+}
+.filters {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.candle-2-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.collapse-child,
+.collapse-item {
+  height: 7.4px;
+  width: 8px;
+  position: relative;
+  object-fit: contain;
+}
+.collapse-item {
+  height: 16px;
+  width: 1px;
+}
+.collapse,
+.collapse-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.collapse {
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+}
+.collapse-wrapper {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3px 0 0;
+}
+.output-generator {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child83 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.forward-item-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.asset-type {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 98px;
+}
+.forward-item-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.frame-child84 {
+  height: 4px;
+  width: 8px;
+  position: relative;
+}
+.frame-parent55 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child85 {
+  height: 46px;
+  flex: 1;
+  min-width: 79px;
+}
+.frame-child86,
+.frame-child87 {
+  height: 46px;
+  flex: 1;
+  min-width: 75px;
+}
+.instance-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-child88 {
+  height: 46px;
+  width: 88px;
+}
+.frame-child89 {
+  height: 46px;
+  flex: 1;
+}
+.frame-child90 {
+  height: 46px;
+  width: 78px;
+}
+.instance-parent6 {
+  width: 315px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-child91 {
+  width: 116px;
+  height: 46px;
+}
+.frame-parent54,
+.frame-parent56 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent56 {
+  width: 329px;
+  gap: 12px;
+}
+.frame-parent54 {
+  align-self: stretch;
+  gap: 24px;
+}
+.frame-child92 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.crown-icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  min-height: 22px;
+}
+.license1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 69px;
+}
+.crown-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.frame-child93 {
+  height: 4px;
+  width: 8px;
+  position: relative;
+}
+.frame-parent58 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child94 {
+  height: 46px;
+  width: 81px;
+}
+.frame-child95 {
+  height: 46px;
+  flex: 1;
+}
+.frame-parent57,
+.instance-parent7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent7 {
+  width: 207px;
+  flex-direction: row;
+  gap: 12px;
+}
+.frame-parent57 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 24px;
+}
+.frame-child96 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.ai-generated-wrapper {
+  align-self: stretch;
+  height: 22px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+  width: auto;
+}
+.frame-child97 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.tools-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+  width: auto;
+}
+.frame-child98 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.colors-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+  width: auto;
+}
+.frame-child99 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.include-prompt-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+}
+.frame-child100 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.orientation-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+}
+.frame-child101 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.quick-edit-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #000;
+  width: auto;
+}
+.frame-child102 {
+  align-self: stretch;
+  height: 0.5px;
+  position: relative;
+  border-top: 0.5px solid #9e8888;
+  box-sizing: border-box;
+}
+.our-choice-wrapper,
+.output-generator-parent {
+  font-size: 18px;
+  color: #000;
+  font-family: "DM Sans";
+}
+.our-choice-wrapper {
+  align-self: stretch;
+  height: 24px;
+  font-weight: 700;
+  width: auto;
+}
+.output-generator-parent {
+  width: 406px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 25.8px;
+  min-width: 406px;
+  max-width: 100%;
+  text-align: left;
+}
+@media screen and (max-width: 1800px) {
+  .output-generator-parent {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 925px) {
+  .output-generator-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .instance-parent5 {
+    flex-wrap: wrap;
+  }
+}
