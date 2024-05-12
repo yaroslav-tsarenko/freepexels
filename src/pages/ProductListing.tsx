@@ -71,7 +71,6 @@ const ProductListing: FunctionComponent = () => {
                   "& .MuiInput-input": { m: 0, p: 0 },
                   "& .MuiInputBase-input": {
                     color: "#000",
-                    fontSize: Mixed,
                     fontWeight: "Mixed",
                     fontFamily: "Mixed",
                     textAlign: "left",
